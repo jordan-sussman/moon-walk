@@ -1,10 +1,10 @@
 ## READ ME
-**Moon Walk** is a parallax enabled webpage. As you scroll through the webpage, elements transform to create a parallax effect. 
+**Moon Walk** is an exercise in parallax webpage scrolling. As you scroll through the webpage, elements transform to create a parallax effect. 
 
 Preview:<br>
-COMING SOON ![]()
+![](/images/moon-walk.gif)
 
-Built with:
+Built using:
 ```
 - HTML
 - CSS
